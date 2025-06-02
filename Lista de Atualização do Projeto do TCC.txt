@@ -1,0 +1,16 @@
+Cadastro usuário devera ser mais rigoroso no email, e sempre procurar automaticamente no banco de dados para ver se ja se repetiu;
+Na pagina serviço deverá ter como o adm cadastrar categoria;
+Na pagina usuários colocar um link para ir direto para o cadastro de profissional, na pagina de profissionais;
+Na pagina profissional não aparece os profissionais cadastrados, e a coisas que cadastram colocar para a tabela usuário;
+na pagina usuário trocar data cadastro para data nascimento, e ter a data cadastro;
+Ajeitar visualizar detalhes cartão fidelidade;
+Cadastro de Recompensa pro adm;
+Concertar adicionar Foto pro adm;
+Pedir para que a senha tenha que ser 8 digitod, com letras números e um caractere especial adm, cliente e proissional;
+Remover configurações do Adm;
+
+
+Modal para todas a ações;
+
+
+
